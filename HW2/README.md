@@ -1,0 +1,4 @@
+# Learn Git Branching Assignment
+
+For this assignment, I first read the instructions for each level and tried to reach the target Git graph using what I learned. When my commands did not work as expected, I compared the current graph with the target and tried different approaches. After completing each level, I also checked whether I received a star or just a check mark. For some levels, I went back and tried to solve them with fewer commands.
+One thing I found interesting was how Git relates to pointers and graph data structures. Commits form a graph, while branches like `main` are references to commits, and `HEAD` tracks the current position. This reminded me of concepts I learned in C programming. I also became more familiar with the differences between `merge` and `rebase`, as well as `fetch`, `pull`, and `push`.
